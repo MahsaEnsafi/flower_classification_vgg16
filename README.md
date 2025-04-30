@@ -1,2 +1,2 @@
-# flower_classification_vgg16
-A flower image classifier using transfer learning with VGG16, trained on the TensorFlow Flowers dataset.
+Dataset Link:
+https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
